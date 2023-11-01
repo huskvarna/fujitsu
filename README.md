@@ -9,7 +9,7 @@
 #### Download the pdf to copy text.
 
 ## The task:
-###CronJob for importing weather data
+### CronJob for importing weather data
 CronJob must be implemented to the code to request weather data from the weather portal of the
 Estonian Environment Agency. The frequency of the cronjob has to be configurable. The default
 configuration to run the CronJob is once every hour, 15 minutes after a full hour (HH:15:00).
